@@ -12,7 +12,7 @@ import (
 	"os"
 	"runtime"
 
-	"github.com/kurehajime/dajarep"
+	"github.com/ikawaha/dajarep" // temporary
 )
 
 func main() {
